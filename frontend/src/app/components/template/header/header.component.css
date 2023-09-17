@@ -21,3 +21,9 @@
 .header .title-group i {
     padding-right: 5px;
 }
+
+.logo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: chocolate;
+    font-size: x-large;
+}
